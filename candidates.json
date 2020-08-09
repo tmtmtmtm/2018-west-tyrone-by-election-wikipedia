@@ -1,0 +1,74 @@
+[
+  {
+    "item": {
+      "value": "Q63929226",
+      "label": "June Davies"
+    },
+    "election": {
+      "value": "Q63853810",
+      "label": "2019 European Parliament election in Wales"
+    },
+    "constituency": {
+      "value": "Q7961747",
+      "label": "Wales"
+    },
+    "party": {
+      "value": "Q61751194",
+      "label": "Change UK"
+    }
+  },
+  {
+    "item": {
+      "value": "Q76450671",
+      "label": "Matthew Evans"
+    },
+    "election": {
+      "value": "Q30173038",
+      "label": "2019 United Kingdom general election"
+    },
+    "constituency": {
+      "value": "Q1052327",
+      "label": "Newport West"
+    },
+    "party": {
+      "value": "Q9626",
+      "label": "Conservative Party"
+    }
+  },
+  {
+    "item": {
+      "value": "Q75838947",
+      "label": "Ryan Jones"
+    },
+    "election": {
+      "value": "Q30173038",
+      "label": "2019 United Kingdom general election"
+    },
+    "constituency": {
+      "value": "Q1052327",
+      "label": "Newport West"
+    },
+    "party": {
+      "value": "Q9624",
+      "label": "Liberal Democrats"
+    }
+  },
+  {
+    "item": {
+      "value": "Q76130882",
+      "label": "Ian McLean"
+    },
+    "election": {
+      "value": "Q30173038",
+      "label": "2019 United Kingdom general election"
+    },
+    "constituency": {
+      "value": "Q1077377",
+      "label": "Cynon Valley"
+    },
+    "party": {
+      "value": "Q7550572",
+      "label": "Social Democratic Party"
+    }
+  }
+]
