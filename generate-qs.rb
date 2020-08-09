@@ -7,8 +7,8 @@ require 'scraped'
 
 require_relative 'lib/quickstatement_candidate'
 
-wd = 'Q55099347'
-source = 'https://en.wikipedia.org/wiki/2018_Lewisham_East_by-election'
+wd = 'Q48814827'
+source = 'https://en.wikipedia.org/wiki/2018_West_Tyrone_by-election'
 csvfile = 'combo.csv'
 new_person_description = 'UK election candidate'
 
