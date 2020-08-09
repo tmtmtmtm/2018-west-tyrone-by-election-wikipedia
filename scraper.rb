@@ -17,7 +17,7 @@ class Candidates < WikipediaCandidatesPage
   decorator WikidataIdsDecorator::Links
 
   def wanted_tables
-    noko.css('#Result').xpath('following::table[1]')
+    noko.css('#Candidates_and_result').xpath('following::table[1]')
   end
 end
 
